@@ -1,2 +1,6 @@
 # RobloxStudioLeaks
-In Here You Can Get Scripts By Just Copying Them And Do The Exact Instruction!
+
+## Patched Hallway
+```lua
+This Is Currently Patched Please Go To The Another One Called "RobloxStudioLeaksV2
+```
